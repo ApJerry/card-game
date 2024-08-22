@@ -1,1 +1,2 @@
-# card-game
+git status
+git add [files]
