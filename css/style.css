@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Wolgadeutsche'; 
+    src: local('Wolgadeutsche'),
+      url(/fonts/Wolgadeutsche.ttf); 
+}
+body {
+    background-color: antiquewhite;
+   
+}
